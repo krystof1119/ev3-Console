@@ -1,0 +1,13 @@
+Error code format - XXXYYYZ (501CPM1)
+XXX - Error ID
+YYY - Module location
+Z   - Location in module
+
+3xx - Program execution errors
+
+
+4xx - User error
+
+
+5xx - Internal program errors, non-execution related
+501 - Invalid argument, non-user supplied.

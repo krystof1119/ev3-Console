@@ -1,0 +1,8 @@
+Bool9- Stop
+Int1- Button port
+Int2- Color port
+Int3- Ultrazvuk port
+Int4- Infra port
+Int5- Vibramotor
+Int6- Akcelerátor
+Int7- Volant
