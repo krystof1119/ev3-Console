@@ -1,3 +1,4 @@
+Bool7- Ready
 Bool9- Stop
 Int1- Button port
 Int2- Color port
